@@ -1,6 +1,6 @@
 #  🐼 Pandas: From Beginner to Advanced
 
-![Pandas Logo](https://pandas.pydata.org/static/img/pandas_white.svg)
+![Pandas Logo](https://pandas.pydata.org/static/img/pandas_white.svg) 
 
 ## 📚 Complete Guide to Data Manipulation with Pandas
 
