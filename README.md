@@ -2,7 +2,7 @@
 
 ![Pandas Logo](https://pandas.pydata.org/static/img/pandas_white.svg) 
 
-## 📚 Complete Guide to Data Manipulation with Pandas
+## 📚 Complete Guide to Data Manipulation with Pandas 
 
 This comprehensive notebook takes you on a journey through Pandas - Python's powerful data analysis library. Whether you're just starting out or looking to deepen your skills, this guide provides step-by-step instructions, examples, and interactive animations to make learning intuitive and engaging.
 
